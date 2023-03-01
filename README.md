@@ -1,0 +1,2 @@
+# ArtsfestAI
+DCGAN for demonstration
